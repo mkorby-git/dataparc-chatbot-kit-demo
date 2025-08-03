@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dataparc-chatbot-kit-demo/static/css/main.15009ff5.css",
+    "main.js": "/dataparc-chatbot-kit-demo/static/js/main.5a28c39a.js",
+    "index.html": "/dataparc-chatbot-kit-demo/index.html",
+    "main.15009ff5.css.map": "/dataparc-chatbot-kit-demo/static/css/main.15009ff5.css.map",
+    "main.5a28c39a.js.map": "/dataparc-chatbot-kit-demo/static/js/main.5a28c39a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.15009ff5.css",
+    "static/js/main.5a28c39a.js"
+  ]
+}
